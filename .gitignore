@@ -3,3 +3,4 @@ resources
 .idea
 tmp
 __pycache__
+docs
